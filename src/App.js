@@ -18,6 +18,9 @@ function App() {
 					<li>
 						<img className="inline" width={18} height={18} src="img/User.svg" alt="User" />
 					</li>
+					<li>
+						<a href="https://github.com/AlexandrOvcharov/React-Sneakers">Git HUB<img className="inline m-1" width={18} height={18} src="img/github.svg" alt="User" /></a>
+					</li>
 				</ul>
 			</header>
 
